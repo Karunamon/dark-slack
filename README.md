@@ -10,7 +10,9 @@ This theme changes the font, it's feels easier to read. You can install from htt
 
 ## Second
 
-Copy the CSS into place, on OSX.
+If you're running macOS, run install-macos.sh. Otherwise, proceed manually:
+
+Copy the CSS into place, on macOS.
 
 ```
 cp caiceA.css dark.css /Applications/Slack.app/Contents/Resources
